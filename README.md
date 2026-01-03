@@ -1,5 +1,7 @@
 # Around Data Engineering & Machine Learning
 
+![](sketchnotes/background.jpeg)
+
 *A long, never-ending learning journey*
 
 This repository is a curated collection of notes, papers, blogs, tools, and references around **Data Engineering**, **Distributed Systems**, **Databases**, and **Machine Learning / MLOps**.
